@@ -75,3 +75,20 @@ The following images demonstrate the functional prototype, including the wiring 
 ### 2. User Interface (OLED)
 <img width="278" height="224" alt="屏幕截图 2025-11-23 211800" src="https://github.com/user-attachments/assets/36c11262-b515-4230-b8e5-b49409603fee" />
 
+## ©️ Intellectual Property & License
+
+**Copyright © 2025 Chen Junxu. All Rights Reserved.**
+
+### ⚠️ Disclaimer (Prototype Use Only)
+This repository contains **prototype firmware and schematics** developed for educational and demonstration purposes. 
+* It **does NOT** represent the final mass-produced commercial product of any associated company or client. 
+* Specific proprietary parameters, industrial safety protocols, and commercial PCB designs have been **excluded** to protect intellectual property.
+
+### 📜 Usage Policy (CC BY-NC 4.0)
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+1.  **Non-Commercial Use:** You are free to use, modify, and study this code for **personal learning, academic research, or hobbyist projects**.
+2.  **No Commercial Deployment:** You are **strictly prohibited** from using this code or design for commercial products, paid services, or industrial deployment without written permission.
+3.  **Attribution:** If you use this project in your work or portfolio, you must credit the author (**Chen Junxu**) and link back to this repository.
+
+---
