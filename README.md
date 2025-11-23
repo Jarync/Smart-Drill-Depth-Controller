@@ -44,6 +44,9 @@ Based on the firmware logic and system design, the following hardware components
 
 The system operates using a low-latency wireless link to ensure safety and precision.
 
+<img width="8330" height="7689" alt="drilling_bb" src="https://github.com/user-attachments/assets/6bd3d99d-4ede-4300-a95e-ed1f47df22d3" />
+
+
 ### 1. Architecture Diagram
 ```text
 [ Drill / Handheld Unit ]                       [ Power Socket Unit ]
