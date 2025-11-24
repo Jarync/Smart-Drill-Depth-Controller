@@ -71,6 +71,8 @@ The following images demonstrate the functional prototype, including the wiring 
 ### 1. Hardware Setup
 <img width="448" height="290" alt="屏幕截图 2025-11-23 211538" src="https://github.com/user-attachments/assets/6be1b1d1-cf80-4cfa-ae89-f52f227dc8d6" />
 
+<img width="1279" height="1706" alt="png (6)" src="https://github.com/user-attachments/assets/54088146-8688-4aac-84f6-38615d3de26a" />
+
 ### 2. User Interface (OLED)
 <img width="278" height="224" alt="屏幕截图 2025-11-23 211800" src="https://github.com/user-attachments/assets/36c11262-b515-4230-b8e5-b49409603fee" />
 
